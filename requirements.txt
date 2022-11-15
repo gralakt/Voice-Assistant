@@ -1,0 +1,6 @@
+ecapture
+PyAudio
+SpeechRecognition
+wikipedia
+pyttsx3
+beautifulsoup4
